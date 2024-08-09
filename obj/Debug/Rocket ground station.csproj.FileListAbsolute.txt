@@ -1,0 +1,67 @@
+C:\Users\pc\source\repos\Rocket ground station\bin\Debug\Rocket ground station.exe.config
+C:\Users\pc\source\repos\Rocket ground station\bin\Debug\Rocket ground station.exe
+C:\Users\pc\source\repos\Rocket ground station\bin\Debug\Rocket ground station.pdb
+C:\Users\pc\source\repos\Rocket ground station\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\pc\source\repos\Rocket ground station\obj\Debug\Rocket ground station.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Rocket ground station\obj\Debug\Rocket ground station.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\Rocket ground station\obj\Debug\Rocket_ground_station.Form1.resources
+C:\Users\pc\source\repos\Rocket ground station\obj\Debug\Rocket_ground_station.Properties.Resources.resources
+C:\Users\pc\source\repos\Rocket ground station\obj\Debug\Rocket ground station.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Rocket ground station\obj\Debug\Rocket ground station.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Rocket ground station\obj\Debug\Rocket ground station.csproj.CopyComplete
+C:\Users\pc\source\repos\Rocket ground station\obj\Debug\Rocket ground station.exe
+C:\Users\pc\source\repos\Rocket ground station\obj\Debug\Rocket ground station.pdb
+C:\Users\pc\source\repos\Rocket ground station\obj\Debug\Rocket_ground_station.Form3.resources
+C:\Users\pc\source\repos\Rocket ground station\bin\Debug\ZedGraph.dll
+C:\Users\pc\source\repos\Rocket ground station\bin\Debug\ZedGraph.xml
+C:\Users\pc\source\repos\Rocket ground station\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\pc\source\repos\Rocket ground station\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\pc\source\repos\Rocket ground station\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\pc\source\repos\Rocket ground station\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\pc\source\repos\Rocket ground station\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\pc\source\repos\Rocket ground station\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\pc\source\repos\Rocket ground station\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\pc\source\repos\Rocket ground station\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\pc\source\repos\Rocket ground station\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\pc\source\repos\Rocket ground station\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\pc\source\repos\Rocket ground station\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\pc\source\repos\Rocket ground station\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\pc\source\repos\Rocket ground station\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\pc\source\repos\Rocket ground station\obj\Debug\Rocket_ground_station.HIZ.resources
+C:\Users\pc\source\repos\Rocket ground station\obj\Debug\Rocket_ground_station.YerIstasyonu.resources
+C:\Users\pc\source\repos\Rocket ground station\obj\Debug\Rocket_ground_station.AliciTest.resources
+C:\Users\pc\source\repos\Rocket ground station\obj\Debug\Rocket_ground_station.Takim.resources
+C:\Users\pc\source\repos\Rocket ground station\obj\Debug\Rocket_ground_station.Home.resources
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\bin\Debug\Rocket ground station.exe.config
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\bin\Debug\Rocket ground station.exe
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\bin\Debug\Rocket ground station.pdb
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\bin\Debug\ZedGraph.dll
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\bin\Debug\ZedGraph.xml
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\obj\Debug\Rocket ground station.csproj.AssemblyReference.cache
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\obj\Debug\Rocket_ground_station.Form1.resources
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\obj\Debug\Rocket_ground_station.AliciTest.resources
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\obj\Debug\Rocket_ground_station.Form3.resources
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\obj\Debug\Rocket_ground_station.HIZ.resources
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\obj\Debug\Rocket_ground_station.Home.resources
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\obj\Debug\Rocket_ground_station.Properties.Resources.resources
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\obj\Debug\Rocket_ground_station.Takim.resources
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\obj\Debug\Rocket_ground_station.YerIstasyonu.resources
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\obj\Debug\Rocket ground station.csproj.GenerateResource.cache
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\obj\Debug\Rocket ground station.csproj.CoreCompileInputs.cache
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\obj\Debug\Rocket g.9C16D9E8.Up2Date
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\obj\Debug\Rocket ground station.exe
+C:\Users\emirh\source\repos\RocketGroundStationSALGUR\Rocket ground station\obj\Debug\Rocket ground station.pdb
